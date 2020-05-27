@@ -20,6 +20,7 @@ spec:
     metadata:
       labels:
         app: eks-example
+        test: tao
     spec:
       containers:
       - name: eks-example
